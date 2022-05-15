@@ -43,6 +43,7 @@ body {
     padding: calc(10px + 0.1vw);
     color: var(--slate-100);
     width: 17vw;
+    min-height: 100vh;
 }
 
 .sidebar > div {
